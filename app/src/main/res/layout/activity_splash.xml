@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".SplashActivity"
+    android:paddingBottom="10mm"
+    android:paddingTop="10mm"
+    android:paddingLeft="5mm"
+    android:paddingRight="5mm">
+    <ImageView
+        android:id="@+id/ytulogoSplash"
+        android:layout_width="wrap_content"
+        android:scaleType="matrix"
+        android:layout_height="wrap_content"
+        android:background="@drawable/ytulogo"
+        android:layout_gravity="center"
+        android:padding="120dp"
+        android:contentDescription="@string/splashimg">
+    </ImageView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:foregroundGravity="center"
+        android:id="@+id/splashText"
+        android:textColor="@color/black"
+        android:text="@string/app_name"
+        android:textSize="30sp"
+        android:layout_below="@+id/ytulogoSplash"/>
+</RelativeLayout>

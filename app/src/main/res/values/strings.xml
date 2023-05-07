@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Mini Mezun</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Şifre</string>
+    <string name="login_failed">Giriş yapılamadı</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="welcome">Mini Mezun</string>
+    <string name="login">Giriş yap</string>
+    <string name="register">Üye Ol ve Başla!</string>
+    <string name="registerNow">Mini Mezuna Katıl!</string>
+    <string name="emailgir">Email Giriniz</string>
+    <string name="passwordgir">Şifre Giriniz</string>
+    <string name="splashimg">splash</string>
+    <string name="mainHomeName">Ana Sayfa</string>
+    <string name="profilFragmentName">Profil</string>
+    <string name="searchFragmentName">Ara</string>
+    <string name="name">İsim</string>
+    <string name="lastName">Soy İsim</string>
+    <string name="startDate">Giriş Yılı</string>
+    <string name="finishDate">Mezuniyet Yılı</string>
+    <string name="profilimg">profilImg</string>
+    <string name="tire">-</string>
+    <string name="giris_yili">Giriş Yılı</string>
+    <string name="mezun_yili">Mezun Yılı</string>
+    <string name="logOutBtn">Çıkış Yap</string>
+    <string name="mezuniyet">Mezuniyet:</string>
+    <string name="bolum">Bölüm:</string>
+    <string name="fotoyukle">Fotoğraf Yükle</string>
+    <string name="fotoCek">Fotoğraf Çek</string>
+    <string name="registerbolum">Bölüm</string>
+    <string name="mezuniyet_derecesi_register">Mezuniyet Derecesi</string>
+    <string-array name="MezuniyetDerecesi">
+        <item>Lisans</item>
+        <item>Yüksek Lisans</item>
+        <item>Doktora</item>
+    </string-array>
+    <string-array name="Bolumler">
+        <item>Bilgisayar Müh.</item>
+        <item>Makine Müh.</item>
+        <item>KOM</item>
+    </string-array>
+    <string name="haber1">Yarıyıl İçi Sınavları İçin Mazeretlerin Kabulü Ve Mazeret Sınavlarının Yapılış Esasları</string>
+    <string name="haber2">Staj Süreçlerinde Önemli Değişiklik</string>
+    <string name="haber3">VİZE SINAV PROGRAMI</string>
+    <string name="haber4">2022-2023 Bahar Dönemi Ders Programı Derslikleri</string>
+    <string name="haber5">ERASMUS BİLGİLENDİRME TOPLANTISI</string>
+    <string name="haber6">KOOP Başvuru Kılavuzu ve Süreç Takvimi</string>
+</resources>
